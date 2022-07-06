@@ -1,0 +1,1 @@
+Append some line in merge.txt
